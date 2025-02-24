@@ -1,9 +1,5 @@
 # AboutMe
-
-</style>
 <body>
-
-
 <table style="width:100%">
   <tr>
     <th>Name</th>
@@ -16,9 +12,6 @@
   <tr>
     <th>Hobbies</th>
     <td>Reading and going for hikes.</td>
-  </tr>
- 
+  </tr> 
 </table>
-
-
 </html>
