@@ -1,6 +1,5 @@
 # AboutMe
-<html>
-<style>
+
 table, th, td {
   border:3px solid purple;
 }
@@ -25,6 +24,4 @@ table, th, td {
 </table>
 
 
-
-</body>
 </html>
