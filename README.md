@@ -1,8 +1,5 @@
 # AboutMe
 
-table, th, td {
-  border:3px solid purple;
-}
 </style>
 <body>
 
